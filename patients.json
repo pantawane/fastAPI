@@ -48,5 +48,15 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
+    },
+    "P006": {
+        "name": "vansh pantawane",
+        "city": "nagpur",
+        "age": 23,
+        "gender": "male",
+        "height": 1.81,
+        "weight": 75.6,
+        "bmi": 23.08,
+        "verdict": "Normal"
     }
 }
